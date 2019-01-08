@@ -9,7 +9,7 @@ A short demo video:
 
 ## Getting Started/ Running the project
 
-After getting a copy of the project, you will find an executable build of the project in the [Release folder](github.com/DePotter-Mathias/Near-Real-Time-Ray-Tracer/tree/master/Near Real-Time Ray Tracer/Release).
+After getting a copy of the project, you will find an executable build of the project in the [Release folder](github.com/DePotter-Mathias/Near-RealTime-Ray-Tracer/tree/master/Near Real-Time Ray Tracer/Release/) .
 simply run 'Raytracer.exe'.
 
 ## Expected performance
